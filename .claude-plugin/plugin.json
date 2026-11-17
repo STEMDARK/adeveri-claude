@@ -1,0 +1,13 @@
+{
+  "author": {
+    "email": "contact@adeveri.com",
+    "name": "STEMDARK SRL",
+    "url": "https://adeveri.com"
+  },
+  "description": "Romanian law from Monitorul Oficial al României, Partea I and Partea I bis (1989 to today): the law in force, its history and the court rulings on it, searched, read and cited through Adeveri (adeveri.com).",
+  "homepage": "https://adeveri.com",
+  "license": "MIT",
+  "name": "adeveri",
+  "repository": "https://github.com/STEMDARK/adeveri-claude",
+  "version": "0.1.0"
+}

@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "adeveri": {
+      "type": "http",
+      "url": "https://adeveri.com/mcp"
+    }
+  }
+}
