@@ -1,6 +1,8 @@
 # Adeveri for Claude
 
-Adeveri gives Claude the text of Romanian legislation as Monitorul Oficial al României published it, Partea I and Partea I bis, from 1989 to today: laws, ordinances, government decisions, orders, and decisions of the Constitutional Court and the High Court. It knows which text is in force on a given day, and every rule in an answer links to its passage on the printed page.
+Research Romanian legislation published in Monitorul Oficial from 1989 onward. Find an article by topic or citation, read the wording in force on a particular date, and see which act changed it. Open a citation to check the quoted passage on the original printed page.
+
+The collection covers Partea I and Partea I bis, including laws, ordinances, government decisions, orders, and decisions of the Constitutional Court and the High Court.
 
 ## What it does
 
@@ -29,4 +31,4 @@ The texts are rebuilt from each issue of Monitorul Oficial and can lag behind th
 
 ## About this package
 
-Version 0.1.1, built from commit `bc8f9db01933e0395dde48d920e5613a65b85e5f` of Adeveri's source; `BUILD.json` records the hash of every file. This repository is generated: make changes in the source, not here. The MIT license covers only the files of this package, not the Adeveri service or the content it returns.
+Version 0.1.2, built from commit `6c860c75ee388d180e6f9d9a48de9b4bda8dcbe3` of Adeveri's source; `BUILD.json` records the hash of every file. This repository is generated: make changes in the source, not here. The MIT license covers only the files of this package, not the Adeveri service or the content it returns.
