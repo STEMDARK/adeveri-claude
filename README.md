@@ -23,7 +23,7 @@ The plugin runs nothing on your device. The assistant sends the Adeveri server t
 
 ## Before relying on an answer
 
-The texts are rebuilt from each issue of Monitorul Oficial and can lag behind the latest one. Check a text on its printed page before relying on it.
+Adeveri shows the law and is not legal advice. The texts are rebuilt from each issue of Monitorul Oficial and can lag behind the latest one. Check a text on its printed page before relying on it.
 
 ## Links
 
@@ -31,4 +31,4 @@ The texts are rebuilt from each issue of Monitorul Oficial and can lag behind th
 
 ## About this package
 
-Version 0.1.2, built from commit `6c860c75ee388d180e6f9d9a48de9b4bda8dcbe3` of Adeveri's source; `BUILD.json` records the hash of every file. This repository is generated: make changes in the source, not here. The MIT license covers only the files of this package, not the Adeveri service or the content it returns.
+Version 0.1.3, built from commit `972dea27e531aaf70537aa84ecf58f6795412662` of Adeveri's source; `BUILD.json` records the hash of every file. This repository is generated: make changes in the source, not here. The MIT license covers only the files of this package, not the Adeveri service or the content it returns.
