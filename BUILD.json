@@ -1,16 +1,17 @@
 {
   "format": 1,
   "target": "claude",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "source_repository": "https://github.com/STEMDARK/legislation-archive",
-  "source_commit": "f7e1aa1d5393ba60a164be6bc4bfc36901636c6a",
-  "source_tree": "9900c5d56df8fce34bdb909fcda3c82603109cc1",
+  "source_commit": "bc8f9db01933e0395dde48d920e5613a65b85e5f",
+  "source_tree": "27025412ee050614854bc14fae8c408fe7b8c16c",
   "mcp_url": "https://adeveri.com/mcp",
   "files": {
-    ".claude-plugin/plugin.json": "a7dc5a49c6b9760cafac6a65378e7a0082df1b7856455db6819e762af73377a8",
+    ".claude-plugin/plugin.json": "95cf7738870d194520c4b9369d8fc1d28367d75876622045d1b97b8fb4363164",
     ".mcp.json": "34894fe2c7cdfe0da5dcbb469d9a23cdd05e59b635c0354ea3d7fd1268657cb7",
     "LICENSE": "d243c88ceba47f026125d7a347d71d0e71f270fadc1678abfcadd5d5990112d7",
-    "README.md": "e85c2bc065172ce1307cd8c119aac717d3912c8a1a5363c7d80324189345a2f2",
+    "README.md": "29f15b4ef91ba7433b5704a5c8a20fce16bda49d3ca098d3d9c0b051f6a4be1c",
+    "assets/icon.png": "0d01ec137bd48b1ee9ccd26c4beb315bd8144a76061be3e4f24cad3ec0651bd5",
     "skills/romanian-law/SKILL.md": "1acd98bc8c6a0cf3bcc9ba857af11ad775c8c442b1fb1572c7a1cdd7d862d298",
     "skills/romanian-law/references/case-law.md": "12a7efd8c5fefd664b909a089564be40d01c99eaa681e9898d72313e6f94e683",
     "skills/romanian-law/references/eu-law.md": "836e7a2c84ee4e6816acd644137a6670c2a62596ceb7f51e88d1a4996b993ab4"
